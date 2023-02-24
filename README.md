@@ -7,9 +7,6 @@
 - I am a junior developer.
 - I studied programming at `SSAFY` 8th.
 
-
-
-
 ***
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjong06)](https://solved.ac/jjong06)
  <img src="http://mazandi.herokuapp.com/api?handle=jjong06&theme=warm"/>
@@ -24,18 +21,3 @@
  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
  ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-
-<!--
-**caerinso/caerinso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
