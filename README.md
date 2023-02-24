@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=JiEun&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60&section=header&text=chae so&fontSize=50&animation=scaleIn)
 
 #### Hello
 
@@ -8,10 +8,10 @@
 - I studied programming at `SSAFY` 8th.
 
 ***
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjong06)](https://solved.ac/jjong06)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=so992419)](https://solved.ac/so992419)
  <img src="http://mazandi.herokuapp.com/api?handle=jjong06&theme=warm"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunlee0106&layout=compact)](https://github.com/jieunlee0106/github-readme-stats)
-[![jieunlee0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunlee0106)](https://github.com/jieunlee0106/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so992419&layout=compact)](https://github.com/so992419/github-readme-stats)
+[![jieunlee0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=so992419)](https://github.com/so992419/github-readme-stats) 
       
 ***
 ## 🍊Tech Stack
