@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60&section=header&text=chae so&fontSize=50&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60&section=header&text=chaeSo&fontSize=50&animation=scaleIn)
 
 #### Hello
 
