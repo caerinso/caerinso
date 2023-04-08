@@ -36,3 +36,5 @@
 <img src="https://img.shields.io/badge/VS Code-006ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caerinso&theme=
+solarized-light&show_icons=true)
