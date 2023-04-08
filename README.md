@@ -1,10 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E8A0BF&height=200&section=header&text=caerinso&fontColor=FDF4F5&fontSize=60&animation=twinkling&fontAlignY=33&desc=back-end%20engineer%20&descAlignY=51&descAlign=67)
-## :ribbon: **caerinso**
+## 👻 **caerinso**
 - I am a junior `back-end` developer.
 - I studied programming at `SSAFY` 8th.
-***
-## :computer:**Tech Stack**
+## :sparkles: **Tech Stack**
  💛 **AI**
 <img src="https://img.shields.io/badge/Python-3777AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE3C2C?style=flat&logo=PyTorch&logoColor=white"/>
@@ -34,4 +33,5 @@
 <img src="https://img.shields.io/badge/VS Code-006ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 
+## :thought_balloon:**tats**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caerinso&theme=solarized-light&show_icons=true)
