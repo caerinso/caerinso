@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> </p>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a>  </p>
 
-## :sparkles: **Tech Stack**
+## 🐰 **Tech Stack**
  💛 **AI**
 <img src="https://img.shields.io/badge/Python-3777AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE3C2C?style=flat&logo=PyTorch&logoColor=white"/>
@@ -40,7 +40,8 @@
 
 
 
-## :thought_balloon:**Git hub**
+## 🐰**Git hub**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caerinso&theme=solarized-light&show_icons=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caerinso&show_icons=true&locale=en&layout=compact" alt="caerinso" /></p>
+
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caerinso&show_icons=true&locale=en&layout=compact" alt="caerinso" /></a>
