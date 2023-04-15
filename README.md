@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=E8A0BF&height=200&section=header&text=caerinso&fontColor=FDF4F5&fontSize=60&animation=twinkling&fontAlignY=33&desc=back-end%20engineer%20&descAlignY=51&descAlign=67)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E8A0BF&height=200&section=header&text=caerinso&fontColor=FDF4F5&fontSize=60&animation=twinkling&fontAlignY=33&desc=back-end%20developer%20&descAlignY=51&descAlign=67)
 ## 🐰 **caerinso**
 - I am a junior `back-end` developer.
 - I studied programming at `SSAFY` 8th.
