@@ -41,6 +41,16 @@
 
 
 ## 🐰**Git hub**
+
+<div key="6">
+    <a href = "https://oreuda.kr/">
+      <img
+        src=https://oreuda.kr/api/v1/plant/card?nickname=caerinso
+        alt="oreuda"
+      />
+    </a>
+ </div>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caerinso&theme=solarized-light&show_icons=true)
 
 
